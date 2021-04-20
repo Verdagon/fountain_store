@@ -1,0 +1,9 @@
+[[raysig]]
+name = "first_example"
+version = "0.1.0"
+vale_version = "0.1.1"
+
+[[raysig]]
+name = "second_example"
+version = "0.1.0"
+vale_version = "0.1.1"

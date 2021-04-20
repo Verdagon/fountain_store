@@ -1,0 +1,6 @@
+name = "collections"
+version = "0.1.0"
+vale_version = "0.1.1"
+author = "Julian Lazaras"
+git = "https://github.com/divinusdracodominus/vale_collections"
+raedme = "README.md"
