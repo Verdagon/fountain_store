@@ -2,3 +2,8 @@
 name = "collections"
 version = "0.1.0"
 vale_version = "0.1.1"
+
+[[ray]]
+name = "benchmarks"
+version = "0.1.0"
+vale_version = "0.1.1"
